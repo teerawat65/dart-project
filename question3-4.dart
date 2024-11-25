@@ -2,5 +2,5 @@ int calculateArea(int length, int width) {
  return length * width;
 }
 void main() {
- print(calculateArea(5, 10)); // Output: 50
+ print(calculateArea(5, 10));
 }
