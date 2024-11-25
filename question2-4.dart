@@ -3,6 +3,6 @@ void main() {
    for (int j = 1; j <= 12; j++) {
      print('$i x $j = ${i * j}');
    }
-   print('----------');
+   print('ตารางสูตรคูณ');
  }
 }
